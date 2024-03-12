@@ -1,0 +1,1 @@
+The purpose of this directory is to provide alternative stacks for fun and games, sandboxy goodness, and general promotion of chaos and angst. Use responsibly. Or don't. This is pretty much a free-for-all up in here.
